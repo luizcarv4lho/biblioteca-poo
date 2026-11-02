@@ -1,7 +1,17 @@
 [
     {
-        "titulo": "rick",
-        "autor": "riordan",
+        "titulo": "O Programador Pragmático",
+        "autor": "Andrew Hunt e David Thomas",
+        "disponivel": true
+    },
+    {
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "disponivel": true
+    },
+    {
+        "titulo": "Inteligência Artificial",
+        "autor": "Kai-Fu Lee",
         "disponivel": true
     }
 ]
